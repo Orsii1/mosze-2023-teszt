@@ -25,4 +25,7 @@ int main()
 
     delete[] b; // Memóriaszivárgás elkerülése
     return 0;
+
+    cout << "Hello World" << endl;
+
 }
